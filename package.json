@@ -3,5 +3,23 @@
     "console.table": "^0.10.0",
     "inquirer": "^8.2.5",
     "mysql2": "^3.1.2"
-  }
+  },
+  "name": "employee-tracker-mysql",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudarshans30/employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sudarshans30/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Sudarshans30/employee-tracker#readme"
 }
